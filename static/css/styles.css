@@ -2,10 +2,10 @@ body {
     background-color: #e1f4f3;
     text-align: center;
 }body {
-    background: linear-gradient(-30deg, #ee7752, #e73c7e,#1E90FF );
+    background: linear-gradient(-30deg, #ee7752, #e73c7e,#1E90FF,#00ff00);
     
     background-size: 400% 400%;
-    animation: gradient 30s ease infinite;
+    animation: gradient 15s ease infinite;
      }
 
      .navbar {
